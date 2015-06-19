@@ -1,6 +1,8 @@
 Popcorn API
 =========
 
+[![Join the chat at https://gitter.im/popcorn-official/popcorn-api](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/popcorn-official/popcorn-api?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Popcorn Time API is developed to make it easier for anyone to create their own versions of [Popcorn Time](http://popcorntime.io). It contains:
 
   - Metdata about TV Shows and individual episodes (taken from Trakt)
